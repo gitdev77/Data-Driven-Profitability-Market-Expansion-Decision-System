@@ -56,3 +56,9 @@ Highlights product-level profitability trends.
 ## Business Outcome
 
 Transforms raw sales data into a decision-support system for strategic growth planning.
+
+
+## Project Architecture
+
+Raw CSV → SQL Data Modeling → KPI Aggregation → Tableau Visualization → Strategic Insights
+
